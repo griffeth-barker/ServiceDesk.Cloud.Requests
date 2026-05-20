@@ -16,6 +16,8 @@ Provides full CRUD coverage for requests, notes, tasks, worklogs, approval level
 
 ## Installation
 
+[![PSGallery Version](https://img.shields.io/powershellgallery/v/ServiceDesk.Cloud.Requests.png?style=for-the-badge&label=PowerShell%20Gallery)](https://www.powershellgallery.com/packages/ServiceDesk.Cloud.Requests/0.1.2/) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/ServiceDesk.Cloud.Requests.png?style=for-the-badge&label=Downloads)](https://www.powershellgallery.com/packages/ServiceDesk.Cloud.Requests/0.1.2/)  
+
 ```powershell
 # Via PowerShell Gallery
 Install-PSResource -Name 'ServiceDesk.Cloud.Requests' -Repository PSGallery
