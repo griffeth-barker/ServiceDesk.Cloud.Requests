@@ -4,6 +4,10 @@ A PowerShell module for the [ManageEngine ServiceDesk Plus Cloud](https://www.ma
 
 Provides full CRUD coverage for requests, notes, tasks, worklogs, approval levels, approvals, and task worklogs according to Zoho's API reference collection. Authentication uses the OAuth2 client credentials flow via Zoho Accounts.
 
+> **DISCLAIMER:**  
+> This module is not affiliated with nor supported by Zoho/ManageEngine.  
+> This code should be considered experimental. You should understand the code that you choose to run on your systems. This code should not be considered production ready as long as this banner is present and/or the module version is < 1.0.0.
+
 ## Requirements
 
 - PowerShell 7.0 or later
